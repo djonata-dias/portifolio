@@ -1,0 +1,15 @@
+
+#copyright {
+    align-self: center;
+    color: white;
+}
+
+.footer {
+    height: 60px;
+    background-color: #24292e;
+    display: flex;
+    margin-top: 44.3%;
+    align-items: center;
+    justify-content: center;
+
+}

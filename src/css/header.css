@@ -1,0 +1,16 @@
+.header {
+    height: 60px;
+    background-color: #24292e;
+    display: flex;
+    justify-content: space-around;
+}
+
+#dropdown {
+    background: transparent;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: transparent;
+    height: 55px;
+}
+
