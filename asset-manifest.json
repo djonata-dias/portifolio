@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/portifolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/portifolio/static/js/main.529b9872.chunk.js",
-    "main.js.map": "/portifolio/static/js/main.529b9872.chunk.js.map",
+    "main.css": "/portifolio/static/css/main.99baedb3.chunk.css",
+    "main.js": "/portifolio/static/js/main.c1876b06.chunk.js",
+    "main.js.map": "/portifolio/static/js/main.c1876b06.chunk.js.map",
     "runtime-main.js": "/portifolio/static/js/runtime-main.4d860e73.js",
     "runtime-main.js.map": "/portifolio/static/js/runtime-main.4d860e73.js.map",
-    "static/js/2.9b6babb3.chunk.js": "/portifolio/static/js/2.9b6babb3.chunk.js",
-    "static/js/2.9b6babb3.chunk.js.map": "/portifolio/static/js/2.9b6babb3.chunk.js.map",
+    "static/css/2.11829350.chunk.css": "/portifolio/static/css/2.11829350.chunk.css",
+    "static/js/2.907bd7c0.chunk.js": "/portifolio/static/js/2.907bd7c0.chunk.js",
+    "static/js/2.907bd7c0.chunk.js.map": "/portifolio/static/js/2.907bd7c0.chunk.js.map",
     "index.html": "/portifolio/index.html",
-    "precache-manifest.28c95ee4325e793a1a91a52a3e8a26dc.js": "/portifolio/precache-manifest.28c95ee4325e793a1a91a52a3e8a26dc.js",
+    "precache-manifest.164031340dfa9d053acb60997f9af030.js": "/portifolio/precache-manifest.164031340dfa9d053acb60997f9af030.js",
     "service-worker.js": "/portifolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/portifolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.9b6babb3.chunk.js.LICENSE.txt": "/portifolio/static/js/2.9b6babb3.chunk.js.LICENSE.txt"
+    "static/css/2.11829350.chunk.css.map": "/portifolio/static/css/2.11829350.chunk.css.map",
+    "static/css/main.99baedb3.chunk.css.map": "/portifolio/static/css/main.99baedb3.chunk.css.map",
+    "static/js/2.907bd7c0.chunk.js.LICENSE.txt": "/portifolio/static/js/2.907bd7c0.chunk.js.LICENSE.txt",
+    "static/media/dropdown-icon.png": "/portifolio/static/media/dropdown-icon.8b586f0b.png",
+    "static/media/jest-logo.png": "/portifolio/static/media/jest-logo.ad689a72.png",
+    "static/media/react-logo.png": "/portifolio/static/media/react-logo.4f59c03e.png",
+    "static/media/react-testing-library-logo.png": "/portifolio/static/media/react-testing-library-logo.9940e8c2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.4d860e73.js",
-    "static/js/2.9b6babb3.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.529b9872.chunk.js"
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.907bd7c0.chunk.js",
+    "static/css/main.99baedb3.chunk.css",
+    "static/js/main.c1876b06.chunk.js"
   ]
 }
